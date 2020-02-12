@@ -1,0 +1,10 @@
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.csprojAssemblyReference.cache
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.Form1.resources
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.Properties.Resources.resources
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.csproj.GenerateResource.cache
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\bin\Debug\LectorDeTxt.exe.config
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\bin\Debug\LectorDeTxt.exe
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\bin\Debug\LectorDeTxt.pdb
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.exe
+C:\Users\Andrés\source\repos\LectorDeTxt\LectorDeTxt\obj\Debug\LectorDeTxt.pdb
